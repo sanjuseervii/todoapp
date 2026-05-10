@@ -1,16 +1,37 @@
-# React + Vite
+# 🚀 Just Do It - Modern Todo Application
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A sleek, high-performance, and responsive **Todo List Web Application** built with React and Tailwind CSS. Featuring a premium purple-pink gradient glow design and persistent data storage.
 
-Currently, two official plugins are available:
+## ✨ Key Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+- **Premium UI/UX:** Modern glassmorphic design with vibrant gradient borders and smooth transitions.
+- **Data Persistence:** Integrated with `LocalStorage` to ensure your tasks remain saved even after page refreshes.
+- **Interactive Logic:** Smart strike-through effect upon task completion with a single click.
+- **Fully Responsive:** Optimized for all devices, from mobile screens to large desktop monitors.
+- **Component-Based Architecture:** Clean, modular, and reusable code for easy scalability.
 
-## React Compiler
+## 🛠️ Tech Stack
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- **Framework:** React.js (Vite)
+- **Styling:** Tailwind CSS
+- **Icons:** Lucide React
+- **State Management:** React Hooks (`useState`, `useEffect`)
 
-## Expanding the ESLint configuration
+## 🚀 Getting Started
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Follow these steps to run the project locally:
+
+1. **Clone the repository:**
+   ```bash
+   git clone [https://github.com/sanjuseervii/todoapp.git](https://github.com/sanjuseervii/todoapp.git)
+   src/
+ ├── components/
+ │    ├── Navbar.jsx    <-- Navigation Header
+ │    ├── Footer.jsx    <-- Page Footer
+ │    └── Todo.jsx      <-- Reusable Todo Item Component
+ ├── App.jsx            <-- Core Logic & State Management
+ └── main.jsx           <-- Entry Point
+ ##🤝 Contributing
+Contributions are always welcome! Feel free to fork the repository, make your changes, and submit a pull request.
+
+Developed with ⚡ by Sanju Seervi
