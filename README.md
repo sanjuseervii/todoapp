@@ -30,8 +30,9 @@ Follow these steps to run the project locally:
  │    ├── Footer.jsx    <-- Page Footer
  │    └── Todo.jsx      <-- Reusable Todo Item Component
  ├── App.jsx            <-- Core Logic & State Management
- └── main.jsx           <-- Entry Point
- ##🤝 Contributing
+ └── main.jsx           <-- Entry Point```
+ 
+## 🤝 Contributing
 Contributions are always welcome! Feel free to fork the repository, make your changes, and submit a pull request.
 
 Developed with ⚡ by Sanju Seervi
