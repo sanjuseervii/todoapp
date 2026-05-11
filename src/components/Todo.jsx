@@ -15,7 +15,7 @@ const TodoItem = ({ task, toggleComplete,deleteTodo }) => {
               className="w-5 h-5 accent-purple-600 cursor-pointer"
             />
             
-            {/* isCompleted check karke strikeout style apply hoga */}
+            {/* isCompleted check and strikeout style applying  */}
             <span className={`font-medium truncate transition-all duration-300 ${
               task.isCompleted ? 'line-through text-gray-400' : 'text-gray-700'
             }`}>
